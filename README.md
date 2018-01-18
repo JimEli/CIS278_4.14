@@ -1,4 +1,4 @@
-# Pima CC CIS178 Week #2 4.14 Exercise
+# Pima CC CIS278 Week #2 4.14 Exercise
 
 Title: Credit Limits
 
@@ -8,6 +8,7 @@ Develop a C++ program that will determine whether a department - store customer 
 * Total of all items charged by this customer this month
 * Total of all credits applied to this customer’s account this month
 * Allowed credit limit
+
 The program should use a while statement to input each of these facts, calculate the new balance (= beginning balance + charges – credits) and determine whether the new balance exceeds the customer’s credit limit. For those customers whose credit limit is exceeded, the program should display the customer’s account number, credit limit, new balance and the message "Credit Limit Exceeded."
 ```text
    Enter account number (or -1 to quit): 100
